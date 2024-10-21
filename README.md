@@ -5,9 +5,9 @@
 
 ## HASIL TUGAS
 
-(img/1.png)
-(img/2.png)
-(img/3.png)
-(img/4.png)
+!["IMAGE TUGAS](img/1.png)
+!["IMAGE TUGAS](img/2.png)
+!["IMAGE TUGAS](img/3.png)
+!["IMAGE TUGAS](img/4.png)
 
 ## SYUKRON🙏
